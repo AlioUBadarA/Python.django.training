@@ -1,2 +1,2 @@
-# Python.django.training
+# Python.django.trainning
 TESTS
